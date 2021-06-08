@@ -1,0 +1,4 @@
+H1, 2019-04-04 10:19:59,571     INFO None
+H1, 2019-04-04 10:19:59,571     INFO train: epoch (50), size (97027), iteration in an epoch (970), batch size(100)
+H1, 2019-04-04 10:19:59,571     INFO validation: size (5106)
+H1, 2019-04-04 10:23:27,602     INFO epoch 0: acc 0.708, loss 0.568, train acc 0.685, train loss 0.583
